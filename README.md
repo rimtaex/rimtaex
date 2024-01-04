@@ -1,4 +1,4 @@
 # RimTaeX
 
 > Blockchain engineer \
-> rimtaex@gmail.com \
+> rimtaex@gmail.com
